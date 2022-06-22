@@ -1,4 +1,5 @@
-package rookjumping;
+package com.example.jumpingrook.source;
+
 import java.util.ArrayList;
 import java.util.List;
 

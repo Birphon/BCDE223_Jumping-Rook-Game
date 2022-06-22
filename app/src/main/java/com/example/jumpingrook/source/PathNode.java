@@ -1,4 +1,4 @@
-package rookjumping;
+package com.example.jumpingrook.source;
 import java.util.ArrayList;
 
 public class PathNode {
