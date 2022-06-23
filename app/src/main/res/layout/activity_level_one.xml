@@ -6,6 +6,17 @@
     android:layout_height="match_parent"
     tools:context=".level_one">
 
+    <TextView
+        android:id="@+id/gameTitle2"
+        android:layout_width="370dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Level One"
+        android:textSize="34sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="100dp"
@@ -25,4 +36,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/backmove" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
