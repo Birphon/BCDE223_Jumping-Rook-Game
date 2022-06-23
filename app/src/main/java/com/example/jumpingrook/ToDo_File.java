@@ -32,4 +32,19 @@ public class ToDo_File {
     TODO:  Automatically scale the graphical user interface of the application on devices with different screen sizes
      */
 
+    /*
+    Test Map 1 (4x4)
+    {{3, 2, 2, 4},
+    {3, 2, 2, 3},
+    {3, 2, 1, 3},
+    {3, 1, 2, 0}};
+
+    Test Map 2 (5x5)
+    {{3, 3, 2, 4, 4},
+    {4, 2, 3, 2, 1},
+    {1, 3, 2, 1, 3},
+    {2, 3, 2, 1, 2},
+    {3, 2, 3, 3, 0}};
+     */
+
 }
