@@ -3,8 +3,8 @@ package com.example.jumpingrook;
 public class ToDo_File {
 
     /*
-    TODO: Display the starting level
-    TODO: Display the level name
+    TODO:  Display the starting level
+    TODO:  Display the level name [DONE]
     TODO:  Display the goal(s)
     TODO:  Display the transparent image of player character
     TODO:  Click event handler or up control button to move player character
@@ -13,8 +13,8 @@ public class ToDo_File {
     TODO:  Click event handler or right control button to move player character
     TODO:  Show the corresponding rules if a move does not obey the move logic
     TODO:  Display a dialogue if player character has won or lost
-    TODO: Display the number of goals for accomplishment out of the total number of goals
-    TODO: Only update the changed parts of the level when playing the game
+    TODO:  Display the number of goals for accomplishment out of the total number of goals
+    TODO:  Only update the changed parts of the level when playing the game
     TODO:  Allow the user to select and load the initial status of a level from a file or database
     TODO:  Display an updated move count for player character
     TODO:  Display a GUI element to control sound on and off
@@ -23,8 +23,8 @@ public class ToDo_File {
     TODO:  A button or menu to restart the current maze
     TODO:  Display a dialogue with options if player character has won or lost
     TODO:  Play a short relevant video to explain the rules of the game
-    TODO: Calculate and display the elapsed time
-    TODO: Pause a game to stop the timer and hide the level, and un-pause the game to continue the timer and show the level again
+    TODO:  Calculate and display the elapsed time
+    TODO:  Pause a game to stop the timer and hide the level, and un-pause the game to continue the timer and show the level again
     TODO:  Support ‘undo’ action
     TODO:  Provide the playback feature of a game
     TODO:  Allow the user to save a game status in a file or database during playing
